@@ -2,7 +2,7 @@
   <br> It's-a me, <a href='https://bdemot.github.io'>Benjamin De Mot!</a></h3>
   <h2 align='center' >I'm a Front-End developer 💻 specialized in ✨JavaScript✨</h2>
   
-  I love to create things only by using a keyboard, my brain and and my fingers. I love to find solutions to aesthetic or logical problems.
+  I love to create things only by using a keyboard, my brain and my fingers. I love to find solutions to aesthetic or logical problems.
   <br> But above all, I love to learn more and more.
   <br>
   
